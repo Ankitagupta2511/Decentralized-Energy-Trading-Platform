@@ -229,3 +229,9 @@ For questions, suggestions, or support, please contact our development team or j
 ---
 
 Building the future of decentralized, sustainable energy trading - one transaction at a time! ⚡🌱
+
+
+## contract address
+
+0x1A45b0b8276D05e1C1b944209D015874668010B6
+
